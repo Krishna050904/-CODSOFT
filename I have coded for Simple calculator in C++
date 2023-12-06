@@ -37,7 +37,7 @@ int main() {
         cin >> choice;
     } while (choice == 'y' || choice == 'Y');
 
-    cout << "Calculator program terminated. Goodbye!:-Krishna Rau" << endl;
+    cout << "Calculator program terminated. Goodbye!:-Krishna Rai" << endl;
     return 0;
 }
 
